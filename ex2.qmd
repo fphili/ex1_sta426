@@ -1,0 +1,17 @@
+---
+title: "ex2"
+format: html
+editor: visual
+---
+
+# Exercise
+
+
+```{r}
+sam = rbinom(n=100, size=2, prob=2/12)
+hist(sam)
+hist(log(sam+1))
+```
+
+
+The mean of the sample is: `r mean(sam)` and its variance is: `r var(sam)`.
