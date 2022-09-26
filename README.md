@@ -1,1 +1,1 @@
-![](`r "https://images.emojiterra.com/google/noto-emoji/v2.034/128px/263a.png"`)
+![](https://images.emojiterra.com/google/noto-emoji/v2.034/128px/263a.png)
